@@ -49,5 +49,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 
 ## Projects
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/Jnug3.png" alt="TryHackMe"/>
+
 - Detection Lab
 - SOC Automation Project
