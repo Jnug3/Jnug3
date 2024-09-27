@@ -47,7 +47,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Certifications
 *Clicking on images will direct you to certificates on Credly*
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<a href="https://www.credly.com/badges/f5fe29ec-1a9c-488e-93ce-346676eb2806/linked_in_profile"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white"> </a>
 <a href="https://www.credly.com/badges/c9e6dde8-070a-419c-83cd-0695b21a0649/linked_in_profile"><img src="https://img.shields.io/badge/-Google%20Cyber%20Security%20Certification-001F3F?&style=for-the-badge&logo=Google&logoColor=white"> </a>
 
 
