@@ -12,7 +12,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Snort Network Traffic Monitoring and Attack Detection | |
+| Snort Network Traffic Monitoring and Attack Detection |<a href="https://github.com/Jnug3/Network-Projects/blob/main/README.md">Snort Live Attack</a> |
 | SIEM Implementation and Log Analysis | WIP|
 
 ## Tools
