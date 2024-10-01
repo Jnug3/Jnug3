@@ -48,6 +48,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 
 ## Projects
+*Clicking on badge will direct you to public TryHackMe page*
 </div>
 <a href="https://tryhackme.com/p/Jnug3"><img src="https://tryhackme-badges.s3.amazonaws.com/Jnug3.png?style=flat&cache-control=nocache" alt="TryHackMe"></a>
 
