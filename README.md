@@ -49,6 +49,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Projects
 </div>
-<img src="https://tryhackme-badges.s3.amazonaws.com/Jnug3.png?style=flat&cache-control=nocache" alt="TryHackMe"><a href="https://tryhackme.com/p/Jnug3"></a>
+<a href="https://tryhackme.com/p/Jnug3"><img src="https://tryhackme-badges.s3.amazonaws.com/Jnug3.png?style=flat&cache-control=nocache" alt="TryHackMe"></a>
 
 
