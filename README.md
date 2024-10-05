@@ -14,6 +14,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |-----------------------------------------------|----------------------------|
 | Snort Network Traffic Monitoring and Attack Detection |<a href="https://github.com/Jnug3/Network-Projects/blob/main/README.md">Snort Live Attack</a> |
 | Network Security Monitoring | <a href ="https://github.com/Jnug3/Network-Projects/blob/main/Zeek.md">Zeek Excercises</a>|
+| Packet & Log Analysis | Brim Exercises|
 
 ## Tools
 
@@ -22,6 +23,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
     <img src="https://img.shields.io/badge/-Snort-FF69B4?&style=for-the-badge&logo=Snort&logoColor=white" />
+    <img src="https://img.shields.io/badge/-BRIM-800080?&style=for-the-badge&logo=BRIM&logoColor=white" />
+
 
 </div>
 
